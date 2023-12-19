@@ -195,7 +195,7 @@ form .page .buttons button.next{
     display: none;
 }
 
-.progress-bar .step p.action{
+.progress-bar .step p.active{
     color: #d97762;
     transition: 0.2s linear;
 }
